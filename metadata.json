@@ -1,0 +1,8 @@
+{
+  "name": "Remix CampusMate",
+  "description": "All-in-one university student companion to manage timetable, attendance, assignments, exam countdowns, study timer, GPA calculator, and campus emergency contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
